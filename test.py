@@ -9,3 +9,5 @@ def calculate_area(length, breath):  # Bug: misspelled "breadth" as "breath"
 radius = 5
 circle_area = calculate_area(radius, radius)  # Bug: This calculates square of radius instead of pi * radius^2
 print(f"Area of circle with radius {radius} is: {circle_area}")
+
+smmmmqkldkdejddeqdkqeoedkoedqek
